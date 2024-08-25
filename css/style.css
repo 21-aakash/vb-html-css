@@ -146,6 +146,8 @@ body {
     padding: 40px 0;
 }
 
+
+ 
 /*-------------------------------- Sidebar --------------------------------*/
 .sidebar {
     flex: 1;
@@ -454,6 +456,14 @@ body {
 .latest-post a:hover {
     color: #0056b3;
 }
+
+
+.blog-posts a {
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Inherit color */
+    font-weight: normal;
+  }
+
 
 /*-------------------------------- Posts Grid --------------------------------*/
 .posts-grid {
