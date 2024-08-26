@@ -11,8 +11,18 @@ body {
     color: #333;
     background-color: #f9f9f9;
     line-height: 1.6;
-     max-width: 1147px;
+   
+}
+
+body.special-page {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #333;
+    background-color: #f9f9f9;
+    line-height: 1.6;
+    max-width: 1147px;
     margin:auto;
+   
 }
 
 /*-------------------------------- Container --------------------------------*/
